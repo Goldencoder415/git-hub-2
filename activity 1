@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <h1>world seven wonders</h1>
+    |<table><tr>   
+        </tr>
+        <tr>
+            <th>Colosseum</th>
+            <td>in rome</td>
+        </tr>
+        <tr>
+            <th>Taj Mahal</th>
+            <td>in india</td>
+        </tr>
+        <tr>
+            <th>Great Wall of China</th>
+            <td> in China</td>
+        </tr>
+        <tr>
+            <th>Christ The Redeemer</th>
+            <td> in Portuguese</td>
+        </tr>
+        <tr>
+            <th>Machu Picchu</th>
+            <td>Peru</td>
+        </tr>
+        <tr>
+            <th>Chichen Itza</th>
+            <td>Mexico</td>
+        </tr>
+        <tr>
+            <th>Petra</th>
+            <td>Jordan</td>
+        </tr>
+    </table>
+</html>
